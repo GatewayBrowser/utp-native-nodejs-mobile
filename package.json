@@ -1,6 +1,6 @@
 {
-  "name": "utp-native-nodejs-mobile",
-  "version": "2.1.4-0",
+  "name": "utp-native",
+  "version": "2.1.4-1",
   "description": "Native bindings for libutp",
   "main": "index.js",
   "gypfile": true,
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/staltz/utp-native-nodejs-mobile.git"
+    "url": "git+https://github.com/vivafoundation/utp-native-nodejs-mobile.git"
   },
   "author": "Andre Staltz (@staltz)",
   "license": "MIT",
